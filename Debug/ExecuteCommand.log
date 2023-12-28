@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  RegisterExtension.cpp
+  ExecuteCommandVerb.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+  Generating Code...
+ExecuteCommandVerb.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  ExecuteCommand.vcxproj -> D:\Documents\My c0d3\microsoft\appshellintegration\ExecuteCommandVerb\Debug\ExecuteCommand.exe
